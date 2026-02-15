@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,15 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# Form Architecture Lab
+Este projeto demonstra a construção de um formulário moderno utilizando **React + TypeScript**, aplicando:
+
+* ***React Hook Form*** para gerenciamento performático de estado
+
+* ***Zod*** para validação baseada em schema com tipagem segura
+
+* ***Composition Pattern*** para criação de componentes reutilizáveis e altamente desacoplados
+
+O objetivo é demonstrar uma arquitetura limpa, escalável e orientada à reutilização, garantindo validação tipada de ponta a ponta (type-safe) e separação clara de responsabilidades.
+>>>>>>> 4a8573d339370ab098b777ff221d48a57a67fb7d
